@@ -1,1 +1,1 @@
-# usefulScripts
+# Useful Scripts and collections
